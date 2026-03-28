@@ -1,0 +1,23 @@
+/* Estilos para el block */
+/* selector por etiqueta */
+h1 {
+    color:blue;
+ }
+
+article p{
+    color:rgb(75, 180, 54);
+ }
+
+ /* Selector por clase */
+ .subtitle {
+    color: rgb(253, 22, 53); 
+  }
+
+  .temas {
+    color: slateblue;
+   }
+
+  /* Selector por id */
+    #subtitulo1 {
+        color: rgb(192, 134, 142);
+     }
